@@ -65,9 +65,9 @@ Submit your Pull Request
 Go through the checklist on the [pull request template](https://github.com/vishakha-a/DSCE-Graduation-2021/blob/master/.github/PULL_REQUEST_TEMPLATE.md) to guarantee your submission is valid. We will review your application, approve and merge your submission if everything is correct. Otherwise, you will get notified of the changes requested on the pull request comment section. 
 
 # Graduation Day 🎓
-Details coming soon!
+[COMING SOON] Details on custom swags and "walk the stage"! Keep checking this space for updates.
 
 
 💖 @vishakha-a, and the entire event management team
 
-💖 Inspired by the GitHub Education Team
+✨ Inspired by the GitHub Education Team

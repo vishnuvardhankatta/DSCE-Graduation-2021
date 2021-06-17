@@ -51,7 +51,7 @@ Copy the next template into your file, delete the boilerplate data and fill the 
 ---
 name: FULLNAME-OR-NICKNAME # No longer than 28 characters
 branch: BRANCH-NAME 🚩 # no longer than 58 characters
-profile_pic: vishakha.png # Name and extension of your profile picture(ex. mona.png) The picture must be squared and 544px on width and height.
+profile_pic: vishakha.png # Name and extension of your profile picture(ex. vishakha.png) The picture must be squared and 544px on width and height.
 quote: YOUR-SENIOR-QUOTE # no longer than 100 characters, avoid using quotes(") to guarantee the format remains the same.
 github_user: YOUR-GITHUB-USERNAME
 ---
@@ -61,7 +61,7 @@ _Do not use special characters in the template above._
 
 ## 4. Pull Request
 
-~~Submit your Pull Request~~
+Submit your Pull Request
 
 Go through the checklist on the pull request template to guarantee your submission is valid. We will review your application, approve and merge your submission if everything is correct. Otherwise, you will get notified of the changes requested on the pull request comment section. 
 

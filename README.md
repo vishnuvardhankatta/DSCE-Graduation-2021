@@ -11,8 +11,9 @@ This repository contains the yearbook of the DSCE Graduation 2021 event. By issu
 ## Privacy Notice 👀
 Consider that all the information that you add to this repository will be publicly available.
 
-- If you don't feel comfortable with displaying your full name, you can include a short name or nickname instead.
-- If you don't want to add a profile picture to the yearbook, you can use an avatar of your choice. 
+- Please include your full name in the markdown file.
+- If you don't want to add a profile picture to the yearbook, you can use an avatar of your choice.
+- Please type the full department name instead of abbreviations. Ex. Information Science and Engineering instead of ISE or Information Science
 
 
 # Who can apply 📝

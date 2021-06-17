@@ -51,7 +51,7 @@ Copy the next template into your file, delete the boilerplate data and fill the 
 ---
 name: FULLNAME-OR-NICKNAME # No longer than 28 characters
 branch: BRANCH-NAME 🚩 # no longer than 58 characters
-profile_pic: vishakha.png # Name and extension of your profile picture(ex. vishakha.png) The picture must be squared and 544px on width and height.
+profile_pic: your-fullname-or-nickname.png # Name and extension of your profile picture(ex. vishakha.png) The picture must be squared and 544px on width and height.
 quote: YOUR-SENIOR-QUOTE # no longer than 100 characters, avoid using quotes(") to guarantee the format remains the same.
 github_user: YOUR-GITHUB-USERNAME
 ---

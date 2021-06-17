@@ -18,7 +18,7 @@ Consider that all the information that you add to this repository will be public
 # Who can apply 📝
 Any student from Dayananda Sagar College of Engineering graduating in 2021 can apply to the yearbook.
 
-# How to join the Class of 2020
+# How to join the Class of 2021
 
 Replace `<YOUR-USERNAME>` with your GitHub username in this guide.
 
@@ -46,7 +46,7 @@ Create a markdown file in your folder following the convention `<YOUR-USERNAME>.
 ```
 _data/vishakha-a/vishakha-a.md
 ```
-Copy the next template into your file, delete the boilerplate data and fill the information with yours.
+Copy the next template into your file, **delete the boilerplate data and the comments** and fill the information with yours.
 ```
 ---
 name: FULLNAME-OR-NICKNAME # No longer than 28 characters
@@ -62,7 +62,7 @@ _Do not use special characters in the template above._
 
 Submit your Pull Request
 
-Go through the checklist on the pull request template to guarantee your submission is valid. We will review your application, approve and merge your submission if everything is correct. Otherwise, you will get notified of the changes requested on the pull request comment section. 
+Go through the checklist on the [pull request template](https://github.com/vishakha-a/DSCE-Graduation-2021/blob/master/.github/PULL_REQUEST_TEMPLATE.md) to guarantee your submission is valid. We will review your application, approve and merge your submission if everything is correct. Otherwise, you will get notified of the changes requested on the pull request comment section. 
 
 # Graduation Day 🎓
 Details coming soon!
